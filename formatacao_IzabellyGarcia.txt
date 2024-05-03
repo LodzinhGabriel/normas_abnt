@@ -1,0 +1,13 @@
+Formatação em um texto é crucial para garantir sua legibilidade e organização. Tamanhos de fontes devem ser adequados, geralmente entre 10 e 12 pontos para corpo de texto, com títulos e subtítulos em tamanhos maiores para destacá-los. O espaçamento entre linhas também é importante para facilitar a leitura, geralmente entre 1,5 e 2 vezes o tamanho da fonte.
+As margens devem ser definidas de acordo com as normas do estilo de formatação utilizado, como a APA ou a MLA. Geralmente, as margens são de 2,54 cm em todos os lados do documento.
+
+Tipos de fonte também são importantes. Para textos acadêmicos, é comum usar fontes como Times New Roman, Arial ou Calibri, devido à sua legibilidade e aceitação geral.
+
+Referências bibliográficas devem seguir um formato específico, como o estilo APA, MLA ou Chicago. Para livros, geralmente incluímos autor(es), título, ano de publicação, editora e, em alguns casos, número da edição. Para sites, devemos incluir o autor (se disponível), título da página, URL e data de acesso.
+Citações são trechos de outros autores inseridos em seu texto para apoiar seus argumentos. Existem diferentes formas de citar, como citação direta (transcrição exata do texto original entre aspas) e citação indireta (paráfrase do texto original). Sempre que você cita um autor, é importante incluir a referência bibliográfica correspondente para dar crédito ao autor original e evitar plágio. Por exemplo, ao citar um livro, podemos escrever:
+
+Segundo Silva (2019), "texto da citação direta".
+
+Ou para uma citação indireta:
+
+Alguns autores argumentam que a formatação adequada de um texto é crucial para sua compreensão (Silva, 2019).
