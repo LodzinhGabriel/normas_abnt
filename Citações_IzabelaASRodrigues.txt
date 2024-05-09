@@ -1,0 +1,78 @@
+Referências
+
+Na lista devem constar apenas as publicações citadas no próprio texto, dispostas em ordem alfabética pelo sobrenome do primeiro autor e ordem cronológica decrescente para obras de mesmo autor. Obedecer às normas estabelecidas pela ABNT (NBR 6023:2002), alinhadas à margem esquerda, com recurso tipográfico para destaque unificado (negrito ou itálico ou sublinhado), em espaço simples no corpo da referência e separadas entre si por espaço 1,5 entrelinhas. Logo abaixo estão disponíveis alguns exemplos de referências:
+
+
+Livros:
+FERNANDES, F. A revolução burguesa no Brasil. Rio de Janeiro: Zahar, 1975. 
+
+Capítulos de livros:
+SINGER, P. A política das classes dominantes. In: IANNI, O. (Org.). Política e revolução social no Brasil. Rio de Janeiro: Civilização Brasileira, 1965. p.65-125.
+
+Dissertações e teses:
+SOUZA, M. T. de. Instituições e política congressual: a experiência congressual recente. 1998. 197f. Tese (Doutorado em Sociologia) - Faculdade de Ciências e Letras, Universidade Estadual Paulista, Araraquara, 1998.
+
+Artigos de periódicos:
+SAES, D. Uma contribuição à crítica da teoria das elites. Sociologia e Política, Curitiba, v.1, n.3, p.7-20, 1994.
+
+Artigos de jornais: 
+DRUMMOND, R. A hora de matar os demônios. Jornal do Brasil, Rio de Janeiro, 6 fev. 1988. Idéias, p.8-9.
+
+Entrevistas: 
+DRUMMOND, R. A pior censura é a dos próprios intelectuais. [nov. 1978]. Entrevistador: Charles Magno Medeiros. Jornal do Brasil, Rio de Janeiro, p. 4, 11 nov. 1978a.
+
+Eventos (Congressos, Conferências, Simpósios, Workshops, Jornadas e outros):
+BRUSCHINI, C.; RIDENTI, S. Trabalho domiciliar: uma tarefa para toda a família. In: SIMPÓSIO DE ECONOMIA FAMILIAR, 1., 1996, Viçosa. Anais... Viçosa: Ed. UFV, 1996.
+
+Publicação on-line:
+TAVES, R. F. Ministério cota pagamento de 46,5 mil professores. O Globo. Rio de Janeiro, 19 abr. 1998. Disponível em:. Acesso em: 19 abr. 1998.
+
+Dicionários:
+
+ AULETE, Caldas. Dicionário contemporâneo da Língua Portuguesa. 3. ed. Rio de Janeiro: Delta, 1980. 5 v.
+
+Atlas:
+
+ MOURÃO, Ronaldo Rogério de Freitas. Atlas celeste. 5. ed. Petrópolis: Vozes, 1984. 175 p.
+
+Enciclopédias:
+
+ THE NEW Encyclopaedia Britannica: micropaedia. Chicago: Encyclopaedia Britannica, 1986. 30 v.
+
+Normas Técnicas:
+
+ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Resumos: NB-88. Rio de Janeiro, 1987. 3 p.
+
+Relatórios técnico-científicos:
+
+SOUZA, Ubiraci Espinelli Lemes de; MELHADO, Silvio Burratino. Subsídios para a avaliação do custo de mão-de-obra na construção civil. São Paulo: EPUSP, 1991. 38 p. (Série Texto Técnico, TT/PCC/01).
+
+Associações, Empresas e Instituições:
+
+ASSOCIAÇÃO BRASILEIRA DE ENFERMAGEM. Centro de Estudos em Enfermagem. Informações pesquisas e pesquisadores em Enfermagem. São Paulo, 1916. 124 p.
+
+Biografias:
+
+ SZPERKOWICZ, Jerzy. Nicolás Copérnico: 1473-1973. Tradução de Victor M. Ferreras Tascón, Carlos H. de León Aragón. Varsóvia: Editorial Científica Polaca, 1972. 82 p.
+
+Dois autores:
+
+SÓDERSTEN, Bo; GEOFREY, Reed. International economics. 3. ed. London: MacMillan, 1994. 714 p. 
+
+Três autores:
+
+NORTON, Peter; AITKEN, Peter; WILTON, Richard. Peter Norton: a bíblia do programador. Tradução: Geraldo Costa Filho. Rio de Janeiro: Campos, 1994. 640 p.
+
+Mais de três autores (em casos específicos, dada à importância, é facultativo indicar todos os nomes):
+
+BRITO, Edson Vianna. et al. Imposto de renda das pessoas físicas: livro prático de consulta diária. 6. ed. atual. São Paulo: Frase Editora, 1996. 288 p.
+
+Autor desconhecido (a entrada é feita pelo título e o termo anônimo não deve ser usado em substituição ao nome do autor desconhecido):
+
+ 
+
+PROCURA-SE um amigo. In: SILVA, Lenilson Naveira e. Gerência da vida: reflexões filosóficas. 3. ed. Rio de Janeiro: Record, 1990. 247. p. 212-213. 
+
+Pseudônimo (considerado o pseudônimo adotado referenciado na obra. Se o verdadeiro nome for conhecido, pode-se indicá-lo entre colchetes na sequência):
+
+ATHAYDE, Tristão de [Alceu Amoroso Lima]. Debates pedagógicos. Rio de Janeiro: Schmidt, 1931.
